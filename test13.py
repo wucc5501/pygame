@@ -13,10 +13,7 @@ class Shape():
         self.speedx=speedx
         self.speedy=speedy
         
-    def update(self, screen):
-        pass
-    def draw(self, screen):
-        pass
+    
     
 class Ball(Shape):
     #建構子
